@@ -20,5 +20,5 @@ This repository exists to:
 ## Usage
 
 ```bash
-./zimara-test-fixtures.sh
-zimara scan ./zimara-test-fixtures
+./zimara-violation-fixtures.sh
+zimara scan ./zimara-violation-fixtures
